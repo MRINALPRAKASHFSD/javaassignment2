@@ -1,4 +1,4 @@
-# Lab Assignment 2 – Student Management System (Java)
+# Assignment 2 – Student Management System (Java)
 
 Repository: **Assignment_2_2401010182**  
 Name: **Mrinal Prakash**  
